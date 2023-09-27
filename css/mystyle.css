@@ -296,6 +296,9 @@ main {
     align-items: center;
 }
 
+.about-icon {
+    margin: 24px 100px;
+}
 /* for what are we doing section */
 .services-section {
     width: 100%;
