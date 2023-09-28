@@ -453,8 +453,10 @@ margin-bottom: 72px;
     color: var(--slate);
     border-radius: 4px;
     border: 1px solid var(--slate);
+    cursor: pointer;
 }
 .customer-icon {
+    padding: 16px 32px;
     width: 100%;
     fill: var(--lightslate);
 }
